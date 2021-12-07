@@ -2,17 +2,17 @@
 Proyecto escolar para Administración de Base de Datos
 
 ## Cualidades del proyecto:
-* Trabajo individual o en equipo de hasta 4 personas. > Individual
-* El límite de entrega es el 10 de diciembre. > Menos de tres días.
-* Se deben buscar los datos a modelar. > Plantilla Northwind
+* Trabajo individual o en equipo de hasta 4 personas.
+* El límite de entrega es el 10 de diciembre.
+* Se deben buscar los datos a modelar.
 * Contenido del documento:
-    * Escenario a resolver (situación). > Sistema POS.
-    * Elegír algún SGBD. > MS SQL SERVER
-    * Escenario de la BD (que maneja o guarda). > Datos de Clientes, Productos, Proveedores, Empleados, Compras y Ventas
-    * Diseño E/R normalizado. > Imagen
-    * Diseño Físico. > Como se guarda en el disco duro.
+    * Escenario a resolver (situación).
+    * Elegír algún SGBD.
+    * Escenario de la BD (que maneja o guarda).
+    * Diseño E/R normalizado.
+    * Diseño Físico.
     * Esquema de seguridad:
-        * Configuración para la base de datos. >
+        * Configuración para la base de datos.
     * Esquema o política de respaldo de la BD.
     * Análisis de performace con 5 o más consultas:
         * Índices.
