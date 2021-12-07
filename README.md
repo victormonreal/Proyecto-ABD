@@ -1,5 +1,5 @@
 # Proyecto-ABD
-Proyecto escolar para Administración de Base de Datos
+Proyecto escolar para Administración de Base de Datos\n\n
 
 Cualidades del proyecto:
 ♦ Trabajo individual o en equipo de hasta 4 personas.
