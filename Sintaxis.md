@@ -35,3 +35,18 @@ Si dejas espacios (Tab) al inicio pasa esto:
 * Elemento 1
   - Elemento 2
     + Elemento 3
+
+## Citas
+
+Las citas se crear con el símbolo >, un ejemplo sería:
+
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  
+— Mahatma Gandhi
+
+## Bloques de código
+
+Para los bloques de código debes teclear tres veces ~  
+Aquí dejo un ejemplo:
+~~~
+printf("Hi guys!!");
+~~~
